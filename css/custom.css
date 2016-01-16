@@ -683,6 +683,9 @@ a {
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
     color: #3B5998;
+},
+#resume .col-md-6.resume-left p {
+    text-align: justify;
 }
 #resume .resume-left ul li h5 {
     border-bottom: 1px solid #3B5998;
