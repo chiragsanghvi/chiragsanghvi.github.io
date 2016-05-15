@@ -3738,6 +3738,10 @@ div.ppt {
     padding-right: 40px;
 }
 
+.portfolio-work .work-img.actlab {
+    background: url("/images/portfolio/actlab.png") no-repeat;
+}
+
 .portfolio-work .work-img.portal {
     background: url("/images/portfolio/appacitive-portal.png") no-repeat;
 }
